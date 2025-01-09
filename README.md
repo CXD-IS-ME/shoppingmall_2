@@ -11,3 +11,5 @@ npm i pinia-plugin-persistedstate
 npm install element-plus --save
 
 npm install -D unplugin-vue-macros
+
+npm install echarts
