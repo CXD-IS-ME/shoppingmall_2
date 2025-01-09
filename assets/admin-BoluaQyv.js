@@ -1,0 +1,1 @@
+import{I as i}from"./index-BB3_t5sF.js";const t=({Username:e,Password:n,repassword:s})=>i.post("/admin/register",{Username:e,Password:n,repassword:s}),r=({Username:e,Password:n})=>i.post("/admin/login",{Username:e,Password:n}),o=()=>i.get("/admin"),d=e=>i.put("/admin/update",e);export{t as a,r as b,o as c,d};
